@@ -46,6 +46,3 @@ def using_insert(list_of_programming_languages, new_array)
   another_language = "Python"
   new_array = list_of_programming_languages.insert[4](another_language)
 end
-
-
-  
