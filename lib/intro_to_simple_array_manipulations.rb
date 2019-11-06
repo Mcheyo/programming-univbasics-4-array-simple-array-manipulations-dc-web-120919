@@ -60,5 +60,5 @@ end
 def using_delete(instructors,no_offense_steven)
     old_instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
     instructors = old_instructors.delete("Steven")
-    
+
   end
